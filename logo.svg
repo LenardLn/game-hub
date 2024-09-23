@@ -5,6 +5,12 @@
  width="458.000000pt" height="458.000000pt" viewBox="0 0 458.000000 458.000000"
  preserveAspectRatio="xMidYMid meet">
 
+ <clipPath id="circleClip">
+   <circle cx="229" cy="229" r="229" />
+ </clipPath>
+
+ <rect width="100%" height="100%" fill="white" />
+
 <g transform="translate(0.000000,458.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
 <path d="M1645 3522 c-99 -48 -141 -159 -96 -257 25 -55 71 -91 139 -111 31
