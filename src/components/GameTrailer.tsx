@@ -17,6 +17,8 @@ const GameTrailer = ({ gameId }: Props) => {
       src={first.data[480]}
       poster={first.preview}
       controls
+      width="1000rem"
+      height="800rem"
     />
   ) : null;
 };
